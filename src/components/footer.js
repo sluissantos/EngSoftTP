@@ -25,7 +25,7 @@ const Footer = () => {
             </span>
             <>
                 {"© "}
-                disney corp {new Date().getFullYear()}
+                CEFET {new Date().getFullYear()}
             </>
             <span>
                 <Typography variant="span" marked="left" gutterBottom>
